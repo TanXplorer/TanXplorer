@@ -1,130 +1,18 @@
-<div align="center">
+# 💫 About Me:
+Hi, I am Tanvir.<br>That is my Git-hub profile where you can explore of developing projects.
 
-# 👋 Hi, I'm TanXplorer
 
-### 🚀 Junior Full-Stack Developer
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rakib Istiyad Tanvir) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Tan_veer92) 
 
-I build responsive, user-focused web applications and continuously improve my skills in modern full-stack development.
-
-<p>
-  <a href="https://github.com/TanXplorer">
-    <img src="https://img.shields.io/badge/GitHub-TanXplorer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-</div>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Org Mode](https://img.shields.io/badge/orgmode-%2377AA99.svg?style=for-the-badge&logo=org&logoColor=white) ![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Coughyyee&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Coughyyee&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Coughyyee&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Coughyyee&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧑‍💻 About Me
-
-- 💻 I'm a **Junior Full-Stack Developer** focused on practical web development.
-- 🌱 Currently improving my skills in **JavaScript, Python, Django, APIs, and databases**.
-- 🎯 My goal is to build **real-world applications** with clean and maintainable code.
-- 🧠 I enjoy learning by building projects and solving development problems.
-- 🤝 Open to collaboration, learning opportunities, and interesting development projects.
-
----
-
-## ⚡ Tech Stack
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" alt="Frontend technologies" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,sqlite" alt="Backend and database technologies" />
-</p>
-
-### 🛠️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎓 Student Management System</h3>
-      <p>
-        A Django-based CRUD application for managing student records and related information.
-      </p>
-      <p>
-        <strong>Python · Django · SQLite · HTML · CSS</strong>
-      </p>
-      <a href="https://github.com/TanXplorer/Student-Management-System">
-        View Repository →
-      </a>
-    </td>
-
-    <td width="50%">
-      <h3>💳 payBD</h3>
-      <p>
-        A payment-focused web project with a modern interface and responsive frontend experience.
-      </p>
-      <p>
-        <strong>HTML · JavaScript · Tailwind CSS</strong>
-      </p>
-      <a href="https://github.com/TanXplorer/payBD">
-        View Repository →
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3>🌐 Web Developer Portfolio</h3>
-      <p>
-        A personal portfolio website for presenting development work, skills, and web projects.
-      </p>
-      <p>
-        <strong>HTML · CSS</strong>
-      </p>
-      <a href="https://github.com/TanXplorer/web-dev-portfolio">
-        View Repository →
-      </a>
-    </td>
-
-    <td width="50%">
-      <h3>🏗️ G3 Architects Website</h3>
-      <p>
-        A responsive architecture-themed website focused on layout, visual presentation, and frontend implementation.
-      </p>
-      <p>
-        <strong>HTML · CSS · Responsive Design</strong>
-      </p>
-      <a href="https://github.com/TanXplorer/g3-architects-website">
-        View Repository →
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📚 Currently Learning
-
-```text
-JavaScript      ███████████████░░░░░
-Python          ██████████████░░░░░░
-Django          ████████████░░░░░░░░
-REST APIs       ██████████░░░░░░░░░░
-Databases       ██████████░░░░░░░░░░
-Clean Code      █████████░░░░░░░░░░░
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
